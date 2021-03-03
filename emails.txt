@@ -1,0 +1,26 @@
+
+	----- Agenda de emails -----
+
+Nombre: Gerardo
+Apellido: Navalles
+Email: gncolores@gmail.com
+
+Nombre: Olya
+Apellido: Khomyn
+Email: olya.khomyn@gmail.com
+
+Nombre: Anel
+Apellido: Reyes
+Email: anel.reyes7@gmail.com
+
+Nombre: Silvia
+Apellido: Urrutia
+Email: silvia@gmail.com
+
+Nombre: David
+Apellido: Vidal
+Email: david.vidal@gmail.com
+
+Nombre: Ana
+Apellido: Cano
+Email: ana.cano@gmail.com
